@@ -5,6 +5,7 @@ Application allows users to easily add, update, and delete tasks.
 
 ## Tools & Library Used
 ![Static Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 ## Preview
 <img width="434" alt="image" src="https://github.com/user-attachments/assets/04a5f9b3-3ef3-4092-a183-699c2c45f2ac" />
